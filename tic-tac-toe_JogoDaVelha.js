@@ -31,11 +31,7 @@ const a1 = "a1",
   c2 = "c2",
   c3 = "c3";
 
-const structure = [
-  [a1, a2, a3],
-  [b1, b2, b3],
-  [c1, c2, c3],
-]; 
+
 let Player1moves = [a1, a2, a3];
 
 let Player2moves = [a1,a2,]
